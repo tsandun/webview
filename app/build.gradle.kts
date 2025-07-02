@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "lk.bhasha.helago.webviewapplication"
+    namespace = "ras.tharaka.webview"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "lk.bhasha.helago.webviewapplication"
+        applicationId = "ras.tharaka.webview"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
